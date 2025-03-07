@@ -1,6 +1,6 @@
 # Fire-RMS: Next-Generation Fire/EMS Records Management System
 
-![Fire-RMS Logo](./assets/logo.svg)
+![Fire-RMS Logo](./logo.svg)
 
 ## Reimagining Records Management for Fire Departments and EMS
 
