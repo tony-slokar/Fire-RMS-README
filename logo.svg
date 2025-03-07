@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Simple clean background -->
+  <rect width="512" height="512" fill="white"/>
+  
+  <!-- Modern shield shape with lighter blue -->
+  <path d="M256 80 L416 130 L416 250 C416 350 336 420 256 432 C176 420 96 350 96 250 L96 130 Z" 
+        fill="#2b6cb0" stroke="#e53e3e" stroke-width="8"/>
+  
+  <!-- Main text with better font choices -->
+  <text x="256" y="240" 
+        font-family="Helvetica, Arial, sans-serif" font-size="80" font-weight="700" 
+        text-anchor="middle" fill="white">FIRE</text>
+  
+  <!-- Subtle divider -->
+  <rect x="176" y="260" width="160" height="4" rx="2" fill="#e53e3e"/>
+  
+  <!-- RMS text -->
+  <text x="256" y="320" 
+        font-family="Helvetica, Arial, sans-serif" font-size="60" font-weight="700" 
+        text-anchor="middle" fill="white">RMS</text>
+</svg>
